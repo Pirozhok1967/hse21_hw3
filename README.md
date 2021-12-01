@@ -21,5 +21,5 @@
 тратата
 ```
 ## Питоновский ноутбук
-[Ссылка на коллаб](пуньк) </br>
+[Ссылка на коллаб](https://colab.research.google.com/drive/1crZwf5oARR6AjNqw3ErmhpvdBEbdgSEU?usp=sharing) </br>
 [Файл в репозитории](пуньк)
