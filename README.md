@@ -2,7 +2,7 @@
 Пирожкина Мария группа 4
 
 ## Питоновский ноутбук
-[Ссылка на коллаб с примерами запуска 6-ти файлов](https://colab.research.google.com/drive/1crZwf5oARR6AjNqw3ErmhpvdBEbdgSEU?usp=sharing) </br>
+[Ссылка на коллаб c выравниванием RNA-seq чтений на геном мыши](https://colab.research.google.com/drive/1crZwf5oARR6AjNqw3ErmhpvdBEbdgSEU?usp=sharing) </br>
 [Ссылка на коллаб ноутбук на R](https://colab.research.google.com/drive/1ti4-qdrNgQ-KJHSkZDcMDNMAjHIAde17?usp=sharing)
 
 ### Скриншоты и статистика из файлов FastQC <br>
