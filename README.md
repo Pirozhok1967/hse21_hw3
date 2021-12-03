@@ -16,6 +16,10 @@ MA-plot <br>
 ![Снимок экрана 2021-12-03 в 20 58 43](https://user-images.githubusercontent.com/34075090/144650828-0c84f60e-3357-4589-b475-45b18b6d5575.png) <br>
 
 Для нескольких генов, которые наиболее значимо поменяли свою экспрессию -- графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах <br>
-![Снимок экрана 2021-12-03 в 20 46 08](https://user-images.githubusercontent.com/34075090/144650859-5269af31-8098-4a21-a4fd-06dde8c1a170.png)
-![Снимок экрана 2021-12-03 в 20 46 14](https://user-images.githubusercontent.com/34075090/144650863-0d9aa52b-3f35-4e85-85f8-4bc5de95964b.png)
-![Снимок экрана 2021-12-03 в 20 46 19](https://user-images.githubusercontent.com/34075090/144650868-c4917e55-bb13-48dd-befd-b67d5a741305.png)
+<br>
+35944 <br>
+![Снимок экрана 2021-12-03 в 20 46 08](https://user-images.githubusercontent.com/34075090/144650859-5269af31-8098-4a21-a4fd-06dde8c1a170.png) <br>
+15817<br>
+![Снимок экрана 2021-12-03 в 20 46 14](https://user-images.githubusercontent.com/34075090/144650863-0d9aa52b-3f35-4e85-85f8-4bc5de95964b.png) <br>
+5130<br> 
+![Снимок экрана 2021-12-03 в 20 46 19](https://user-images.githubusercontent.com/34075090/144650868-c4917e55-bb13-48dd-befd-b67d5a741305.png) <br>
